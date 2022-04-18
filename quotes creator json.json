@@ -1,0 +1,8 @@
+{
+  "bannerId":"/6499/example/banner",
+  "nativeId":"/6499/example/native",
+  "interId":"/6499/example/interstitial",
+  "openAdId":"/6499/example/app-open",
+  "min":"1",
+  "max":"1"
+}
